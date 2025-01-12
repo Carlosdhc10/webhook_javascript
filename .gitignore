@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración
+.env
+.env.local
+.env.*.local
+
+# Archivos de log
+logs
+*.log
+*.log.*
+
+# Archivos de dependencias instaladas (cuando usas Yarn o npm)
+package-lock.json
+yarn.lock
+
+# Archivos de producción
+dist/
+build/
+
+# Archivos de IDE (Visual Studio Code, etc.)
+.vscode/
+.idea/
+
+# Archivos de caché
+*.cache

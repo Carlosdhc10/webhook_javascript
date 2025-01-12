@@ -21,5 +21,5 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/webhooks-tester.git
+git clone https://github.com/Carlosdhc10/webhook_javascript.git
 cd webhooks-tester
